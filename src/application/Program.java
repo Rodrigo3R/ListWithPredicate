@@ -13,6 +13,8 @@ public class Program {
 
 	public static void main(String[] args) {
 
+		
+		System.out.println("Esse projeto foi alterado pra teste");
 		Locale.setDefault(Locale.US);
 		
 		Scanner sc = new Scanner(System.in);
